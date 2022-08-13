@@ -1,0 +1,27 @@
+hi{
+    font-size: 40px;
+}
+
+.line{
+    height: 6px;
+    background-color: black;
+    width: 100px;
+    margin: 8px auto;
+}
+
+
+#App{
+    background-color: lightblue;
+}
+
+#Games{
+    background-color: lightcoral;
+}
+
+#Chatbot{
+    background-color: lightpink;
+}
+
+img{
+    width: 300px;
+}
